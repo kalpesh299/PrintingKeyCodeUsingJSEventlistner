@@ -10,6 +10,5 @@
 
 # Tools
 * VS Code❤
-* Chrome Color Picker Extention to take refrence of color hexcode
 * Online CSS Shadow generator
 
